@@ -18,3 +18,6 @@ In this session, we will dive into the workings of convolutional filters, which 
 
 In these sessions, we will focus on applying transfer learning to a real-world simulated business case. We will make use of several pre-trained model and fine-tune it to suit our specific needs. Once our model is ready, we will deploy it in a publicly available Streamlit app, allowing us to test the results in real life. We will discuss on best practices for Deep Learning experimentation,
 which can be costly and time consuming and we will make use of [Weights & Biases](https://wandb.ai/) web app.
+
+
+teer ua aplicacio web con un oton dode puedas suir ua imagen usar unn modelo preeentrando, 
